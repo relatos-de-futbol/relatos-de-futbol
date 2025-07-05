@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://relatos-de-futbol.github.io/sitemap.xml
